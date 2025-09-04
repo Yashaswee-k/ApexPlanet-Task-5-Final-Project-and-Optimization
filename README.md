@@ -16,3 +16,5 @@ A great way to apply everything I learned in a real-world scenario.
 OUTPUT:
 
 <img width="1581" height="673" alt="Image" src="https://github.com/user-attachments/assets/8ab77ce4-1c40-4bd6-9858-985cb70236ce" />
+
+<img width="1412" height="785" alt="Image" src="https://github.com/user-attachments/assets/96974b98-56f7-465b-ba85-5796e7e2f6c4" />
